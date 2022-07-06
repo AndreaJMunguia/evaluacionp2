@@ -1,15 +1,16 @@
-{
-    "country" : {
-        "code" : "mx",
-        "name" : "Mexico"
+[
+    {
+        "language": "Espanol",
+        "surname": "Dominguez",
+        "country": "Mexico",
+        "airpot": "Aeropuerto Internacional de Toluca",
+        "firstname": "Lucho"
     },
-    "airports" : {"name" : "Aeropuerto Internacional de la Ciudad de Mexico"},
-    "surname" : "Dominguez",
-    "firstname" : "Lucho", 
-    "spokenLanguages" : [
-        {   
-            "code" : "es",
-            "name" : "espanol"
-        }
-    ]
-}
+    {
+        "country": "Francia",
+        "firstname": "Jean",
+        "airport": "Aeropuerto Internacional de la Ciudad Mexico",
+        "surname": "Paul Gualtier",
+        "language": "Frances"
+    }
+]
