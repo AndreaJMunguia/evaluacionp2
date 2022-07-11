@@ -18,3 +18,7 @@ Dentro del proyecto podremos encontrar cuatro arhivos diferentes, cada uno con d
 
 #### AUTOR
 Andrea Sarai Juárez Munguia
+
+
+
+**NOTA:**  Falta termina bien la conversión de txt a json, para hacer el envio de datos correctamente.
